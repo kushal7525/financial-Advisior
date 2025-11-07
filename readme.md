@@ -59,7 +59,7 @@ The agents share state, allowing each to build on the previous step’s output.
 ### 🔧 Installation
 
 ```bash
-git clone https://github.com/<your-repo-path>.git
+git clone https://github.com/kushal7525/financial-Advisior.git
 cd ai_financial_coach_agent
 
 python -m venv venv
@@ -179,4 +179,5 @@ Contributions are welcome!
 * Python open-source ecosystem
 
 ---
+
 
