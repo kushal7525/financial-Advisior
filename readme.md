@@ -60,7 +60,7 @@ The agents share state, allowing each to build on the previous step’s output.
 
 ```bash
 git clone https://github.com/kushal7525/financial-Advisior.git
-cd ai_financial_coach_agent
+cd financial-Advisior
 
 python -m venv venv
 # Windows
@@ -82,7 +82,7 @@ GOOGLE_API_KEY=your_gemini_api_key
 ## ▶️ Run the App
 
 ```bash
-streamlit run ai_financial_coach_agent.py
+streamlit run financial-Advisior.py
 ```
 
 Then open the URL displayed in your terminal (e.g. `http://localhost:8501`).
@@ -179,5 +179,6 @@ Contributions are welcome!
 * Python open-source ecosystem
 
 ---
+
 
 
